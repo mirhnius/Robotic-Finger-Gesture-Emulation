@@ -9,4 +9,21 @@ The aim of the whole this efforts is to build a tracking robotic finger with the
 
 *key words: robotic finger, real-time motion tracking, robot vision, servo motor, 3D-printing, Arduino coding.*
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40741680/129809128-80a9be2c-2684-49bb-9bce-9014f8787eed.png" width="540" height="400">
+</p>
+
+<p align="center">
+The Complete Model of The Hand
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40741680/129809827-8650091e-56c9-4aab-a4fd-d1c823a71453.png" width="400" height="600">
+</p>
+
+<p align="center">
+The Assembled and 3D-Printed Robotic Finger.
+</p>
+
+
 **You could find more detailed information in the *`Finger Robotic Report.pdf`* file**
