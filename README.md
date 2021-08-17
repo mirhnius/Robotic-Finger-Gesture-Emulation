@@ -9,3 +9,4 @@ The aim of the whole this efforts is to build a tracking robotic finger with the
 
 *key words: robotic finger, real-time motion tracking, robot vision, servo motor, 3D-printing, Arduino coding.*
 
+**You could find more detailed information in the *`Finger Robotic Report.pdf`* file**
