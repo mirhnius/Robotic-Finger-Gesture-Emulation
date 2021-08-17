@@ -16,7 +16,7 @@ The aim of the whole this efforts is to build a tracking robotic finger with the
   <b>The Complete Model of The Hand</b>
 </p>
 
-
+<br />
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/129810295-c2c502c0-936c-4e0b-a447-2f9e006749f7.png" width="500" height="500">
 </p>
@@ -25,7 +25,16 @@ The aim of the whole this efforts is to build a tracking robotic finger with the
 <b>The Simulation of The Robotic Finger in The Bending Position</b>
 </p>
 
+<br />
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40741680/129811319-6553368f-5ddf-4f1c-b0f0-48e811acfcc7.png" width="800" height="300">
+</p>
+<p align="center">
+<b>The Configuration of Finger Mechanism Subsystems in Simulink</b>
+</p>
+
+<br />
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/129809827-8650091e-56c9-4aab-a4fd-d1c823a71453.png" width="400" height="600">
 </p>
@@ -33,7 +42,7 @@ The aim of the whole this efforts is to build a tracking robotic finger with the
 <p align="center">
 <b>The Assembled and 3D-Printed Robotic Finger</b>
 </p>
-
+<br />
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/129810085-94fdb0ed-04ed-4d4d-b155-e58f9d3b4bc3.png" width="700" height="300">
