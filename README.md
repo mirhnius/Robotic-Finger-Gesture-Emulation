@@ -53,4 +53,4 @@ The aim of the whole this efforts is to build a tracking robotic finger with the
 </p>
 
 
-**You could find more detailed information in the *`Finger Robotic Report.pdf`* file**
+**You could find more detailed information in the [*`Finger Robotic Report.pdf`*](https://github.com/mirhnius/Robotic-Finger-Gesture-Emulation/blob/main/Robotic%20Finger%20Report.pdf) file**
