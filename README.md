@@ -13,7 +13,7 @@ The aim of the whole this efforts is to build a tracking robotic finger with the
 <img src="https://user-images.githubusercontent.com/40741680/129809128-80a9be2c-2684-49bb-9bce-9014f8787eed.png" width="540" height="400">
 </p>
 <p align="center">
-The Complete Model of The Hand
+  <b>The Complete Model of The Hand</b>
 </p>
 
 
@@ -22,7 +22,7 @@ The Complete Model of The Hand
 </p>
 
 <p align="center">
-The Simulation of The Robotic Finger in The Bending Position
+<b>The Simulation of The Robotic Finger in The Bending Position</b>
 </p>
 
 
@@ -31,7 +31,7 @@ The Simulation of The Robotic Finger in The Bending Position
 </p>
 
 <p align="center">
-The Assembled and 3D-Printed Robotic Finger
+<b>The Assembled and 3D-Printed Robotic Finger</b>
 </p>
 
 
@@ -40,7 +40,7 @@ The Assembled and 3D-Printed Robotic Finger
 </p>
 
 <p align="center">
-Connections of the Different Parts of The Project
+<b>Connections of the Different Parts of The Robotic Finger</b>
 </p>
 
 
